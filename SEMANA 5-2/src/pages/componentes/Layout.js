@@ -4,6 +4,9 @@ import Link from "next/link";
 
 export default props => (
     <>
+    <Head>
+        <title>Pokemon</title>
+    </Head>
     <header>
         <div>
             &nbsp;
