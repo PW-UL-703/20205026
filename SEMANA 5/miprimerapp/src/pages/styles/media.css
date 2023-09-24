@@ -1,0 +1,23 @@
+/* 
+max-width: ####px => Cuando el ancho de la página sea menor a 1024px
+                     entonces el fondo cambiará al color especificado
+*/
+
+@media ( max-width : 1024px) {
+    body {
+        background-color: rgb(197, 197, 197);
+    }
+}
+
+@media ( max-width : 800px) {
+    body {
+        background-color: pink;
+    }
+}
+
+@media ( max-width : 600px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
