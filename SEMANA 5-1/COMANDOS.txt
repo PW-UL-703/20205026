@@ -1,3 +1,4 @@
+NOTAS:
 no crea clases predefinidas
 optimiza el renderizado de la página web
 
