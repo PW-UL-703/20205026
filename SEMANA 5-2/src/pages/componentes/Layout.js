@@ -13,7 +13,7 @@ export default props => (
             A continuación, usaremos el tema de  Pokémon para aprender JavaScript
         </p>
         &nbsp;
-    </div>
+        </div>
     </header>
 
     <nav>
