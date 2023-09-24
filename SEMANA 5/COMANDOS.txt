@@ -1,0 +1,17 @@
+no crea clases predefinidas
+optimiza el renderizado de la página web
+
+COMANDOS:
+npx create-next-app miprimerapp
+proceed y
+
+N
+Y
+N
+Y
+Y
+N
+
+cd xxxx
+
+npm run dev
