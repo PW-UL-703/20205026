@@ -27,7 +27,7 @@ export default props => (
         </ul>
     </nav>
 
-    /*Se pone esto para habilitar el layout*/
+    /*Se pone esto para habilitar los estilos en el Layout
     <main>
         {props.content}
     </main>
